@@ -8,7 +8,7 @@ categories: posts
 
 ## Introducing Flex, a Jekyll theme
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+dneiondeoindoenodenodnednoendoenodneodneoidnoeindoed
 
 ## Open Sourced on GitHub
 
